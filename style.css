@@ -1,0 +1,23 @@
+
+body {
+    padding: 20px;
+}
+table {
+    margin-top: 20px;
+}
+.price-contain{
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 1rem;
+    padding: 1rem;
+}
+.main-container{
+    background-color: aquamarine;
+    /* text-align: center; */
+
+}
+.category-container{
+    /* background-color: rgb(247, 182, 182);
+    color: rgb(59, 59, 199); */
+    /* background-color: brown; */
+}
